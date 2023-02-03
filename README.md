@@ -9,5 +9,5 @@ IlyaVolkov94/IlyaVolkov94 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 -->
 
-* 🌱 My dream are design <!-- websites,mobile apps,  -->CRPG and traveling around the World
+* 🌱 My dream are systems programming, design CRPG and traveling around the World
 * 💞️ I would like to have a many interesting project with a new friends
